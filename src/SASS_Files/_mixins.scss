@@ -1,0 +1,4 @@
+@function color-choice($color-pallette) {
+  $index: random(4);
+  @return nth($color-pallette, $index);
+}
