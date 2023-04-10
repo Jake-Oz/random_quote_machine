@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.99098d12.chunk.css",
-  "main.js": "/static/js/main.5815d8bd.chunk.js",
-  "main.js.map": "/static/js/main.5815d8bd.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.ca48165b.chunk.js": "/static/js/2.ca48165b.chunk.js",
-  "static/js/2.ca48165b.chunk.js.map": "/static/js/2.ca48165b.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.d8163a177c79d76ddebccaf13cb76282.js": "/precache-manifest.d8163a177c79d76ddebccaf13cb76282.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.99098d12.chunk.css.map": "/static/css/main.99098d12.chunk.css.map"
+  "main.css": "/random_quote_machine/static/css/main.99098d12.chunk.css",
+  "main.js": "/random_quote_machine/static/js/main.5815d8bd.chunk.js",
+  "main.js.map": "/random_quote_machine/static/js/main.5815d8bd.chunk.js.map",
+  "runtime~main.js": "/random_quote_machine/static/js/runtime~main.4046c197.js",
+  "runtime~main.js.map": "/random_quote_machine/static/js/runtime~main.4046c197.js.map",
+  "static/js/2.ca48165b.chunk.js": "/random_quote_machine/static/js/2.ca48165b.chunk.js",
+  "static/js/2.ca48165b.chunk.js.map": "/random_quote_machine/static/js/2.ca48165b.chunk.js.map",
+  "index.html": "/random_quote_machine/index.html",
+  "precache-manifest.ae1040071fe24e3a02b626c6225774eb.js": "/random_quote_machine/precache-manifest.ae1040071fe24e3a02b626c6225774eb.js",
+  "service-worker.js": "/random_quote_machine/service-worker.js",
+  "static/css/main.99098d12.chunk.css.map": "/random_quote_machine/static/css/main.99098d12.chunk.css.map"
 }
